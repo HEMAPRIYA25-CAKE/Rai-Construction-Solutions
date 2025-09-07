@@ -8,7 +8,7 @@ Rai Construction Solutions brings construction visions to life with precision, i
 
 ## 🚀 Tech Stack
 
-- **Frontend Framework**: React 18 with TypeScript
+- **Frontend Framework**: ReactJS
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **Routing**: React Router DOM
